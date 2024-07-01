@@ -14,5 +14,5 @@ https://github.com/Dispassionate-Analyst/3d-volatility-surface/assets/164734048/
 
 You can zoom in to view the 3D surface or pivot the chart to view the horizontal/vertical implied volatility profile of the ticker's options.
 
-Nothing I write here should be interpreted as investment advice. Any information provided is for educational or informational purposes only. Always conduct your own research or consult with a qualified financial advisor before making any investment decisions. Remember that investing involves risks, and past performance is not indicative of future results. I am not liable for any actions taken based on the content provided
+Disclaimer: Nothing I write here should be interpreted as investment advice. Any information provided is for educational or informational purposes only. Always conduct your own research or consult with a qualified financial advisor before making any investment decisions. Remember that investing involves risks, and past performance is not indicative of future results. I am not liable for any actions taken based on the content provided
 
