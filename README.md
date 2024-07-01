@@ -6,6 +6,8 @@ The 3D volatility surface is a three-dimensional plot that displays the implied 
 This repository extracts options data from Yahoo Finance, performs minimal data manipulation, and constructs a 3D volatility surface from it. The tool is free to use, utilizing data from Yahoo Finance, and its output requires less than 100 KB of storage space.
 
 To use this script, a chat box will prompt the user to enter a stock ticker. Then, the user will be asked to choose from a dropdown menu to select the options type (puts vs. calls) and whether the options data should be presented with a log scale.
+![image](https://github.com/Dispassionate-Analyst/3d-volatility-surface/assets/164734048/eda6b349-303e-46e4-b514-57399b4bfcce)
+![image](https://github.com/Dispassionate-Analyst/3d-volatility-surface/assets/164734048/b0064e85-137a-484a-8ba7-b008fcab71a0)
 
 Below is a sample result of the AAPL 3D volatility surface:
 
