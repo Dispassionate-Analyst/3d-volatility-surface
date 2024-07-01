@@ -9,7 +9,8 @@ To use this script, a chat box will prompt the user to enter a stock ticker. The
 
 Below is a sample result of the AAPL 3D volatility surface:
 
-https://github.com/Dispassionate-Analyst/3D_volatility_surface/assets/164734048/95fb6006-5b19-4f33-bd2a-2f2279e7164b
+https://github.com/Dispassionate-Analyst/3d-volatility-surface/assets/164734048/6257a1e4-c5ce-4824-b135-65c38353f974
+
 
 You can zoom in to view the 3D surface or pivot the chart to view the horizontal/vertical implied volatility profile of the ticker's options.
 
