@@ -1,11 +1,15 @@
-# 3d-volatility-surface
+# 3d-volatility-surface  
 
-What is a 3D Volatility Surface?
+# What is a 3D volatility Surface?
 The 3D volatility surface is a three-dimensional plot that displays the implied volatilities of a stock's options listed across different strike prices and expirations.
 
+# Description
 This repository extracts options data from Yahoo Finance, performs minimal data manipulation, and constructs a 3D volatility surface from it. The tool is free to use, utilizing data from Yahoo Finance, and its output requires less than 100 KB of storage space.
 
+# Instruction
 To use this script, a chat box will prompt the user to enter a stock ticker. Then, the user will be asked to choose from a dropdown menu to select the options type (puts vs. calls) and whether the options data should be presented with a log scale.
+
+# Sample 
 
 ![image](https://github.com/Dispassionate-Analyst/3d-volatility-surface/assets/164734048/a3af8dd7-fb7d-47b2-b565-9e679a3d5048)
 
